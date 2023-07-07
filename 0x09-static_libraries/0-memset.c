@@ -2,11 +2,11 @@
 
 /**
  * *_memset - fills memory with a constant byte
- * @s: memory area tobe filled
- * @b: char tocopy
- * @n: number of times tocopy b
+ * @s: memory area to be filled
+ * @b: char to copy
+ * @n: number of times to copy b
  *
- * Return: pointer to thememory area s
+ * Return: pointer to the memory area s
  */
 char *_memset(char *s, char b, unsigned int n)
 {
